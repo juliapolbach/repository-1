@@ -1,0 +1,19 @@
+{
+  "name": "repository-1",
+  "version": "1.0.0",
+  "description": "A dummy repo for an Stepsize task",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliapolbach/repository-1.git"
+  },
+  "author": "Julia Polbach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliapolbach/repository-1/issues"
+  },
+  "homepage": "https://github.com/juliapolbach/repository-1#readme"
+}
